@@ -21,7 +21,7 @@
                     }"
                 >
                     <button class="btn btn-sm btn-primary" @click="refreshList()">
-                        <i class="fas fa-redo"></i> Làm mới
+                        <i class="fa-solid fa-arrow-rotate-right"></i> Làm mới
                     </button>
                 </rouuter-link>
                 <button class="btn btn-sm btn-success" @click="goToAddContact">

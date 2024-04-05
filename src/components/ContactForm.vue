@@ -65,7 +65,7 @@
                 class="ml-2 btn btn-danger"
                 @click="deleteContact"
             >
-                <i class="fas fa-trash-can"></i>
+                <i class="fas fa-trash"></i>
                 Xóa
             </button>
         </div>
